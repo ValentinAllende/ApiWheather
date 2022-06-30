@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+body{
+  background-color: rgb(153, 107, 151);
+  background-image: url('https://cdn.discordapp.com/attachments/969395714901823518/991881756431097886/508.jpg');
+}
